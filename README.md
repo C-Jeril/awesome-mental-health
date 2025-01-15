@@ -127,6 +127,7 @@ Organizations bringing mental health awareness to the software industry.
 * [MHPrompt](http://mhprompt.org) - Let's start a conversation about mental health in tech.
 * [OSMI](https://osmihelp.org) - Open Sourcing Mental Illness is a non-profit, corporation dedicated to raising awareness, educating, and providing resources to support mental wellness in the tech and open source communities.
 * [SelfCare.Tech](http://selfcare.tech/) - A repository of self-care resources for developers & others.
+* [kuakua.app](https://www.kuakua.app/) - Unleash your power and happiness with psychology and AI tools. Explore mindfulness, therapy, and positive psychology to boost your well-being today.
 
 ## Podcasts
 
